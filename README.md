@@ -1,2 +1,3 @@
-# Enigma2Vu-
-ncam setup, ncam config files, softcam key, 
+Copy & paste in your notepad and save as   ncam.conf
+Move ncam.conf file to etc/tuxbox/config/
+
